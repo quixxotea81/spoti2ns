@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# About
+
+This is purely a practice app for a software engineering assignment. Most of the code are learnt from [Code with Antonio](https://www.youtube.com/@codewithantonio).
+
+# Installment
+
 ## Getting Started
 
 First, run the development server:
